@@ -14,5 +14,5 @@ Pod::Spec.new do |spec|
   spec.swift_version    = "5.0"
 
   spec.dependency "YDExtensions", "1.0.29"
-  spec.dependency "YDB2WModels", "1.0.12"
+  spec.dependency "YDB2WModels", "1.0.0-prod"
 end
